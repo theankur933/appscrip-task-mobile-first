@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.275" height="27.275" viewBox="0 0 27.275 27.275">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a274f8"/>
+      <stop offset="1" stop-color="#47fce7"/>
+    </linearGradient>
+    <filter id="music_symbol" x="1.719" y="1.5" width="22.724" height="23.922" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_28062" data-name="Group 28062" transform="translate(-1102.157 1260.177)">
+    <g id="Group_28061" data-name="Group 28061" transform="translate(1102.657 -1259.677)">
+      <path id="Path_7375" data-name="Path 7375" d="M13.138,0A13.138,13.138,0,1,1,0,13.138,13.138,13.138,0,0,1,13.138,0Z" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1102.16, -1260.18)" filter="url(#music_symbol)">
+      <path id="music_symbol-2" data-name="music symbol" d="M27.872,1.839V8.793a2.175,2.175,0,0,0-1.28-.4,1.9,1.9,0,0,0-2.011,1.767,2.027,2.027,0,0,0,4.021,0V4.117L34.574,2.64V7.135a2.175,2.175,0,0,0-1.28-.4A1.9,1.9,0,0,0,31.284,8.5a2.027,2.027,0,0,0,4.021,0V0Z" transform="translate(-16.86 7.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

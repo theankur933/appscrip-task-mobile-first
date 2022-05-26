@@ -1,0 +1,22 @@
+<svg id="Group_39344" data-name="Group 39344" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_38112" data-name="Group 38112" transform="translate(9146 -3280)">
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="22.5" cy="22.5" r="22.5" transform="translate(-9146 3280)" opacity="0.5"/>
+  </g>
+  <g id="gift_1_" data-name="gift (1)" transform="translate(13 -2.308)">
+    <g id="Group_39285" data-name="Group 39285" transform="translate(1.158 25.553)">
+      <g id="Group_39284" data-name="Group 39284" transform="translate(0 0)">
+        <path id="Path_107900" data-name="Path 107900" d="M32,271.692v6.951a1.16,1.16,0,0,0,1.158,1.158h5.792v-8.109Z" transform="translate(-32 -271.692)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_39287" data-name="Group 39287" transform="translate(0 16.308)">
+      <g id="Group_39286" data-name="Group 39286" transform="translate(0 0)">
+        <path id="Path_107901" data-name="Path 107901" d="M17.377,20.919H13.711a4.5,4.5,0,0,0,.646-.518,2.421,2.421,0,0,0,0-3.408,2.448,2.448,0,0,0-3.4,0c-.5.5-1.835,2.556-1.651,3.926H9.226c.183-1.37-1.149-3.422-1.651-3.926a2.45,2.45,0,0,0-3.4,0,2.425,2.425,0,0,0,0,3.408,4.584,4.584,0,0,0,.648.518H1.158A1.16,1.16,0,0,0,0,22.078v1.738a.579.579,0,0,0,.579.579h7.53V22.078h2.317v2.317h7.53a.579.579,0,0,0,.579-.579V22.078A1.16,1.16,0,0,0,17.377,20.919Zm-9.336-.038a.382.382,0,0,1-.214.038A5.7,5.7,0,0,1,5,19.585,1.264,1.264,0,0,1,5,17.81a1.235,1.235,0,0,1,1.755,0C7.534,18.6,8.311,20.6,8.041,20.881Zm2.667.038c-.164,0-.213-.037-.213-.038-.27-.279.506-2.286,1.287-3.071a1.248,1.248,0,1,1,1.755,1.775A5.7,5.7,0,0,1,10.707,20.919Z" transform="translate(0 -16.308)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_39289" data-name="Group 39289" transform="translate(10.426 25.553)">
+      <g id="Group_39288" data-name="Group 39288" transform="translate(0 0)">
+        <path id="Path_107902" data-name="Path 107902" d="M288,271.692V279.8h5.792a1.159,1.159,0,0,0,1.158-1.158v-6.951Z" transform="translate(-288 -271.692)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

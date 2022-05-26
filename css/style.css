@@ -1,0 +1,182 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.main {
+  width: auto;
+  height: auto;
+  position: relative;
+  bottom: 40px;
+  margin: 0 auto;
+}
+
+.abc {
+  display: flex;
+}
+
+.eliza {
+  margin-top: 44px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.eliza img {
+  width: 15px;
+  margin-left: 16px;
+  height: 17px;
+}
+
+.eliza p {
+  font-size: 16pt;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+.eliza .third-img {
+  width: 32px;
+  height: 29px;
+}
+
+.image {
+  text-align: center;
+}
+
+.image img {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+
+.image p {
+  line-height: 25px;
+  font-size: 16pt;
+  position: relative;
+  right: 16px;
+}
+
+.image .overlap-img {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  right: 37px;
+}
+
+.details {
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 11px;
+}
+
+.details .post p:nth-child(1) {
+  text-align: center;
+  font-size: 16pt;
+  line-height: 25px;
+}
+
+.details .post p:nth-child(2) {
+  color: #666666;
+  text-align: center;
+  font-size: 12pt;
+  line-height: 18px;
+}
+
+.details .post .first {
+  margin-left: 88px;
+}
+
+.details .post .second {
+  margin-left: 81px;
+}
+
+.details .post .third {
+  margin-right: 97px;
+}
+
+.details .post .fourth {
+  margin-right: 80px;
+}
+
+.details .post1 {
+  color: #666666;
+}
+
+.livejet p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16pt;
+  line-height: 25px;
+}
+
+.icons {
+  width: 100%;
+  height: 43.75px;
+  margin-top: 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  background-color: #c1f7f7;
+}
+
+.icons img {
+  height: 25px;
+  width: 25px;
+}
+
+.gallery {
+  justify-content: space-evenly;
+  gap: 5px;
+  margin: 20px 12px 0 12px;
+}
+
+.gallery img {
+  width: 100%;
+  height: 155px;
+  object-fit: cover;
+}
+
+.gallery .over {
+  height: 18px;
+  width: 30px;
+  position: absolute;
+  left: 53vh;
+  bottom: 17vh;
+}
+
+.gap {
+  margin-top: 7px;
+}
+
+.bottom-section {
+  height: 75px;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #c1f7f7;
+  overflow: hidden;
+}
+
+.bottom-section img {
+  width: 40px;
+  height: 40px;
+}
+
+.camera img {
+  height: 20px;
+  width: 20px;
+}
+
+.camera {
+  position: relative;
+  bottom: 9vh;
+}
