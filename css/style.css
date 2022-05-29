@@ -47,6 +47,10 @@ body {
   text-align: center;
 }
 
+.image a {
+  text-decoration: none;
+}
+
 .image img {
   height: 90px;
   width: 90px;
